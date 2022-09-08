@@ -2,6 +2,14 @@
 name = "keyshift"
 version = "0.1.0"
 edition = "2021"
+authors = ["Farris Swisher <farrisswisher@tutanota.com>"]
+license = "GPL v3.0"
+description = "A tool to calculate change in semitones (pitch) after a change in bpm (tempo)"
+readme = "README.md"
+homepage = "https://github.com/FarrisSwisher/keyshift"
+repository = "https://github.com/FarrisSwisher/keyshift"
+keywords = ["cli", "music", "pitch", "tempo", "semitones", "bpm"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
